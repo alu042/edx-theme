@@ -4,7 +4,7 @@
   "description": "Open edX theme for IONISx",
   "repository": {
     "type": "git",
-    "url": "git://github.com/IONISx/edx-theme.git"
+    "url": "git://github.com/alu042/ionisx.git"
   },
   "scripts": {
     "test": "grunt test"
